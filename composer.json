@@ -1,0 +1,14 @@
+{
+	"name": "html_pdf",
+	"description": "",
+	"keywords": [],
+	"license": "",
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		}
+	},
+	"require": {
+		"mpdf/mpdf": "^6.1"
+	}
+}
